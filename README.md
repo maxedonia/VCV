@@ -18,9 +18,9 @@ Load AW samples (or your own samples) into Lomas Sampler.
 
 Start JW Module Clock for playback to begin!
 
+## Video Demonstration [Here](https://youtu.be/acnlVYxxT5I)
 
 ![tetrixxx example image](https://github.com/user-attachments/assets/b0250c32-173d-43fb-a236-9c0c02f5a525)
-
 
 
 *Tip: Altering the playback parameters of the Lomas Sampler will create new textures in the low end. A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills during playback.*
@@ -28,8 +28,6 @@ Start JW Module Clock for playback to begin!
 ![toms and texture](https://github.com/user-attachments/assets/a5d03bf2-a8a6-4acf-a2d1-c303b61c637b)
 
 *Tip: Changing the parameters in the gold box shown here. A larger window means more bass tones and sample presence, a shorter window means more chopped sample playback and more tom fills.*
-
-## Video Demonstration [Video Demonstration](https://youtu.be/acnlVYxxT5I)
 
 ### Additional Info: 
 
