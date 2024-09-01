@@ -1,6 +1,6 @@
-# VCV
+# VCV2_PATCH_TETRIX
 Patches, Sound Design, Motion Control, MIDI, Modular & More
-by Max Deadroom
+**by Max Deadroom**
 
 ## textrixxx_8.31.2024 VCV Rack 2 Patch
 
@@ -10,7 +10,7 @@ by Max Deadroom
 
 Download and register for a free or paid version of VCV Rack 2 from www.vcvrack.com. 
 
-Install necessary module libraries (see recommended list). 
+Install necessary module libraries *(see recommended list)*. 
 
 Load ROM file into kautenjaDSP RackNES module. 
 
@@ -27,7 +27,7 @@ Start JW Module Clock for playback to begin!
 
 ![toms and texture](https://github.com/user-attachments/assets/a5d03bf2-a8a6-4acf-a2d1-c303b61c637b)
 
-*Tip: Changing the parameters in the gold box shown here. A larger window means more bass tones and sample presence, a shorter window means more chopped sample playback and more tom fills.*
+*Tip: Changing the parameters in the gold box shown in the image above. A larger window means more bass tones and sample presence, a shorter window means more chopped sample playback and tom fills triggered by Lomas EOC.*
 
 ### Additional Info: 
 
