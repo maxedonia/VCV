@@ -18,7 +18,7 @@ Load AW samples (or your own samples) into Lomas Sampler.
 
 Start JW Module Clock for playback to begin!
 
-## Video Demonstration ![Here](https://youtu.be/acnlVYxxT5I)
+## Video Demonstration [Here](https://youtu.be/acnlVYxxT5I)
 
 ![tetrixxx example image](https://github.com/user-attachments/assets/b0250c32-173d-43fb-a236-9c0c02f5a525)
 
