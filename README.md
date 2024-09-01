@@ -16,7 +16,7 @@ Load ROM file into kautenjaDSP RackNES module.
 
 Load AW samples (or your own samples) into Lomas Sampler.
 
-Start JW Module Clock and enjoy!
+Start JW Module Clock for playback to begin!
 
 
 ![tetrixxx example image](https://github.com/user-attachments/assets/b0250c32-173d-43fb-a236-9c0c02f5a525)
@@ -29,6 +29,7 @@ Start JW Module Clock and enjoy!
 
 *Tip: Changing the parameters in the gold box shown here. A larger window means more bass tones and sample presence, a shorter window means more chopped sample playback and more tom fills.*
 
+## Video Demonstration [Video Demonstration](https://youtu.be/acnlVYxxT5I)
 
 ### Additional Info: 
 
