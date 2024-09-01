@@ -16,7 +16,7 @@ Clone this repo:
 
 `git clone https://github.com/maxedonia/VCV2_PATCH_TETRIX.git`
 
-Open *tetrixxx_8.31.2024_v2.vcv* to launch VCV Rack 2 patch.
+Open *tetrixxx_8.31.2024_v2.5vcv* to launch latest version of **TETRIX** VCV Rack 2 patch.
 
 Load ROM file into kautenjaDSP RackNES module (if necessary).
 
