@@ -10,7 +10,7 @@ Patches, Sound Design, Motion Control, MIDI, Modular & More
 
 Download and register for a free or paid version of VCV Rack 2 from www.vcvrack.com. 
 
-Install necessary module libraries see [**Recommended Module Libraries**](https://github.com/maxedonia/VCV2_PATCH_TETRIX.git)
+Install necessary module libraries see [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX.git)
 
 Load ROM file into kautenjaDSP RackNES module. 
 
@@ -18,7 +18,7 @@ Load AW samples (or your own samples) into Lomas Sampler.
 
 Start JW Module Clock for playback to begin!
 
-## Video Demonstration [Here](https://youtu.be/acnlVYxxT5I)
+## Video Demonstration ![Here](https://youtu.be/acnlVYxxT5I)
 
 ![tetrixxx example image](https://github.com/user-attachments/assets/b0250c32-173d-43fb-a236-9c0c02f5a525)
 
@@ -35,7 +35,7 @@ Max Deadroom is Max Lewis, a music programmer, designer, audio engineer, and pro
 
 Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads: 8
 
-## [**Recommended Module Libraries**]: *JW, Hetrick, KautenjaDSP, Lomas, Cult, Bog Audio, MindMeld, Count Modula*.
+## **Recommended Module Libraries**: *JW, Hetrick, KautenjaDSP, Lomas, Cult, Bog Audio, MindMeld, Count Modula*.
 
 Creator does not have developer credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996.
 
