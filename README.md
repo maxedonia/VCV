@@ -12,7 +12,13 @@ Download and register for a free or paid version of VCV Rack 2 from www.vcvrack.
 
 Install necessary module libraries: [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX.git)
 
-Load ROM file into kautenjaDSP RackNES module. 
+Clone this repo:
+
+`git clone https://github.com/maxedonia/VCV2_PATCH_TETRIX.git`
+
+Open *tetrixxx_8.31.2024_v2.vcv* to launch VCV Rack 2 patch.
+
+Load ROM file into kautenjaDSP RackNES module (if necessary).
 
 In Lomas Sampler module, load the default *AW samples* (or use your own sample or sample bank).
 
