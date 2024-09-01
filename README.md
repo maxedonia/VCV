@@ -1,6 +1,6 @@
 # VCV2_PATCH_TETRIX
 Patches, Sound Design, Motion Control, MIDI, Modular & More
-**by Max Deadroom**
+by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 
 ## textrixxx_8.31.2024 VCV Rack 2 Patch
 
@@ -10,13 +10,13 @@ Patches, Sound Design, Motion Control, MIDI, Modular & More
 
 Download and register for a free or paid version of VCV Rack 2 from www.vcvrack.com. 
 
-Install necessary module libraries see [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX.git)
+Install necessary module libraries: [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX.git)
 
 Load ROM file into kautenjaDSP RackNES module. 
 
-Load AW samples (or your own samples) into Lomas Sampler.
+In Lomas Sampler module, load the default *AW samples* (or use your own sample or sample bank).
 
-Start JW Module Clock for playback to begin!
+Start JW Module Clock for playback!
 
 ## Video Demonstration [Here](https://youtu.be/acnlVYxxT5I)
 
@@ -31,7 +31,7 @@ Start JW Module Clock for playback to begin!
 
 ### Additional Info: 
 
-Max Deadroom is Max Lewis, a music programmer, designer, audio engineer, and professor at UC Denver.
+*Max Deadroom is Max Lewis, a music programmer, designer, audio engineer, and professor at UC Denver.*
 
 Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads: 8
 
@@ -57,5 +57,5 @@ Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads
 
 *Included samples for Lomas Sample Module were recorded by **[maxdeadroom](https://maxedonia.myportfolio.com)** from *Another World, 20th Anniversary Edition* for PC. 
 
-*Another World is copyrighted by 2024 Éric Chahi, 1991, 2024.*
+*[Another World](https://www.moma.org/collection/works/162458) is copyrighted by 2024 Éric Chahi, 1991, 2024.*
 
