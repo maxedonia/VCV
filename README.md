@@ -36,7 +36,7 @@ Max Deadroom is Max Lewis, a music programmer, designer, audio engineer, and pro
 
 Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads: 8
 
-**Recommended Module Libraries**: *JW, Hetrick, KautenjaDSP, Lomas, Cult, Bog Audio, MindMeld, Count Modula*.
+## **Recommended Module Libraries**: *JW, Hetrick, KautenjaDSP, Lomas, Cult, Bog Audio, MindMeld, Count Modula*.
 
 Creator does not have developer credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996.
 
