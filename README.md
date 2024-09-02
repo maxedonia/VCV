@@ -75,11 +75,11 @@ Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads
 
 
 
-*Creator does not have developer credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996.*
+*Creator does not claim developer credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996.*
 
 *Included samples for Lomas Sample Module were recorded by **[maxdeadroom](https://maxedonia.myportfolio.com)** from *Another World, 20th Anniversary Edition* for PC. 
 
-*For demonstration purposes only.*
+*This synthpatch is for demonstration purposes only.*
 
 *[Another World](https://www.moma.org/collection/works/162458) is copyrighted by Éric Chahi, 1991, 2024.*
 
