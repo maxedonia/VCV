@@ -37,13 +37,9 @@ Start JW Module Clock for playback!
 ![tetrixxx example image](https://github.com/user-attachments/assets/b0250c32-173d-43fb-a236-9c0c02f5a525)
 
 
-*Tip: Altering the playback parameters of the Lomas Sampler will create new textures in the low end. A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills during playback.*
-
-
-
 ![toms and texture](https://github.com/user-attachments/assets/a5d03bf2-a8a6-4acf-a2d1-c303b61c637b)
 
-*Tip: Attenuating a shorter sampe window means more chopped sample playback and tom fills triggered by Lomas EOC.*
+*Tip: Altering the playback parameters of the Lomas Sampler will create new textures in the low end. A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills during playback.*
 
 
 
