@@ -43,7 +43,7 @@ Start JW Module Clock for playback!
 
 ![toms and texture](https://github.com/user-attachments/assets/a5d03bf2-a8a6-4acf-a2d1-c303b61c637b)
 
-*Tip: Changing the parameters in the gold box shown in the image above. A larger window means more bass tones and sample presence, a shorter window means more chopped sample playback and tom fills triggered by Lomas EOC.*
+*Tip: Attenuating a shorter sampe window means more chopped sample playback and tom fills triggered by Lomas EOC.*
 
 
 
