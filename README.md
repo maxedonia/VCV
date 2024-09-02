@@ -81,5 +81,5 @@ Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads
 
 *For demonstration purposes only.*
 
-*[Another World](https://www.moma.org/collection/works/162458) is copyrighted by 2024 Éric Chahi, 1991, 2024.*
+*[Another World](https://www.moma.org/collection/works/162458) is copyrighted by Éric Chahi, 1991, 2024.*
 
