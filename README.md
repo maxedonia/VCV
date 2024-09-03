@@ -2,33 +2,42 @@
 Patches, Sound Design, Motion Control, MIDI, Modular & More
 by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 
-## textrixxx_8.31.2024 VCV Rack 2 Patch
+# textrixxx VCV Rack 2 Patch
 
-### Info:
+### About this patch:  
 
-**Installation**:
-
-Download and register for a free or paid version of VCV Rack 2 from www.vcvrack.com. 
-
-
-Install necessary module libraries: [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX/blob/main/README.md#recommended-module-libraries)
+***textrix** uses the CV outputs from the RackNES module and alternating probability switches to 'play' a .rom file recursively, wherein the CV outputs of the RackNES module and probability settings determine movement, positioning, and interaction with the game until the end of each cycle. Upon 'losing', the end of cycle triggers the .rom to reload it's original state to be performed again with different playback/probability. In addition to providing gameplay, the probability switch sends triggers to a kick and a snare drum (the Vult modules), creating an alternating beat as the game is played. The third (and optional) element of the patch design is bass tones that are generated from playing a small portion of a sample (or sample bank) using Lomas Sampler. Samples are fed through a low-pass filter to create bass/low end textures that will also have random probability. All outputs from RackNES and Lomas are fed via FM modulation into the drums, and with the EOC of the samples from Lomas triggering tom fills. Finally, the hi-hat module is set to a 1/4 clock divider for listening orientation, as the output and beat is constantly changing in timbre as it is being randomly sequenced by a network of interdeterministic CV values.*
+**This patch was made in VCV Rack 2 Pro 2.5.2 on Windows 10, 48kHz sample rate, 8 processing threads.**
 
 
-Clone repo:
+## **Installation**:
+
+- Download and register for a free or paid version of VCV Rack 2 from www.vcvrack.com
 
 
-`git clone https://github.com/maxedonia/VCV2_PATCH_TETRIX.git`
+- Install necessary module libraries: [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX/blob/main/README.md#recommended-module-libraries)
 
 
-Open *tetrixxx_8.31.2024_v2.5.vcv* to launch the latest version of **TETRIX** in VCV RACK 2.
+- Clone **textrix** repo:
 
 
-Load *.nes* file into kautenjaDSP RackNES module, and *AW samples* (or your own bank) into Lomas Sampler.
+   `git clone https://github.com/maxedonia/VCV2_PATCH_TETRIX.git`
 
 
 
-Start JW Module Clock for playback!
+- Open *tetrixxx_8.31.2024_v2.5.vcv* (or latest version) to launch **tetrix** in VCV RACK 2.
+  
+- Start JW Module Clock for playback!
+  
 
+**Depending on your VCV Rack 2 settings, you may need to do the following in order to hear playback:**
+
+
+- Load *.nes* file into kautenjaDSP RackNES module
+  
+- Load *AW samples* (or your sample bank) into Lomas Sampler
+
+- Change audio output module settings in VCV and/or your computer's native I/O settings.
 
 
 ## Video Demonstration [Here](https://youtu.be/acnlVYxxT5I)
@@ -36,18 +45,13 @@ Start JW Module Clock for playback!
 
 ![tetrixxx example image](https://github.com/user-attachments/assets/b0250c32-173d-43fb-a236-9c0c02f5a525)
 
+  *As shown, the variability of output can significantly changed due recursive nature of CV output from one module to that of another. This variability can be most easily achieved by changing the Lomas sample bank, altering the length of the sample start/end window, or by changes to the gameplay or .rom loaded in RackNES.*
+
 
 ![toms and texture](https://github.com/user-attachments/assets/a5d03bf2-a8a6-4acf-a2d1-c303b61c637b)
 
-*Tip: Altering the playback parameters of the Lomas Sampler will create new textures in the low end. A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills during playback.*
+  *Tip: Altering the playback parameters of the Lomas Sampler will create new textures in the low end. A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills during playback.*
 
-
-
-### Additional Info: 
-
-*Max Deadroom is Max Lewis, a music programmer, designer, audio engineer, and professor at UC Denver.*
-
-Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads: 8
 
 
 
@@ -71,7 +75,12 @@ Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads
 
 
 
-*Creator does not claim development nor credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996 et. al.*
+### Additional Info: 
+
+*Max Deadroom is Max Lewis, a music programmer, designer, audio engineer, professor, and lecturer at UC Denver.*
+
+
+*Patch author does not seek nor have developer credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996 et. al.*
 
 *Included samples for Lomas Sample Module were recorded by **[maxdeadroom](https://maxedonia.myportfolio.com)** from *Another World, 20th Anniversary Edition* for PC. 
 
