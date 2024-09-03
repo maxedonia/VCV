@@ -86,7 +86,7 @@ by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 
 *Patch author does not seek nor have developer credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996 et. al.*
 
-*Included samples for Lomas Sample Module were recorded by **[maxdeadroom](https://maxedonia.myportfolio.com)** from *Another World, 20th Anniversary Edition* for PC. 
+*Included samples for Lomas Sample Module were recorded by **[max_Deadroom](https://maxedonia.myportfolio.com)** from *Another World, 20th Anniversary Edition* for PC. 
 
 *[Another World](https://www.moma.org/collection/works/162458) is copyrighted by Éric Chahi, 1991, 2024.*
 
