@@ -54,7 +54,7 @@ by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 
 ![toms and texture](https://github.com/user-attachments/assets/a5d03bf2-a8a6-4acf-a2d1-c303b61c637b)
 
-  *Tip: A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills throughout pattern. Import your own samples and attenuate them with OCT module for unique bass and tom patterns.*
+  *Tip: A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills throughout pattern. Import your own samples and attenuate them with OCT module for entirely different bass tones and tom patterns.*
 
 
 
