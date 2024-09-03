@@ -15,7 +15,7 @@ by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 - Download and register for a free or paid version of VCV Rack 2 from www.vcvrack.com
 
 
-- Install necessary module libraries: [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX/blob/main/README.md#recommended-module-libraries)
+- Install recommended module libraries: [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX/blob/main/README.md#recommended-module-libraries)
 
 
 - Clone **textrix** repo:
@@ -36,6 +36,8 @@ by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 - Load *.nes* file into kautenjaDSP RackNES module
   
 - Load *AW samples* (or your sample bank) into Lomas Sampler
+
+- Check for any missing module libraries
 
 - Change audio output module settings in VCV and/or your computer's native I/O settings.
 
