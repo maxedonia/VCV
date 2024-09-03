@@ -7,6 +7,8 @@ by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 ### About this patch:  
 
 ***textrix** uses the CV outputs from the RackNES module and alternating probability switches to 'play' a .nes file recursively, wherein the CV outputs of the RackNES module and probability settings determine movement, positioning, and interaction with the game until the end of each cycle. Upon 'losing', the end of cycle triggers the .nes to reload it's original state to be performed again with different playback/probability. In addition to providing gameplay, the probability switch sends triggers to a kick and a snare drum (the Vult modules), creating an alternating beat as the game is played. The third (and optional) element of the patch design is bass tones that are generated from playing a small portion of a sample (or sample bank) using Lomas Sampler. Samples are fed through a low-pass filter to create bass/low end textures that will also have random probability. All outputs from RackNES and Lomas are fed via FM modulation into the drums, and with the EOC of the samples from Lomas triggering tom fills. Finally, the hi-hat module is set to a 1/4 clock divider for listening orientation, as the output of the alternating beat changes timbres and interdependency when continuously sequenced at random by a network of inter-deterministic CV values.*
+
+
 **This patch was made in VCV Rack 2 Pro 2.5.2 on Windows 10, 48kHz sample rate, 8 processing threads.**
 
 
