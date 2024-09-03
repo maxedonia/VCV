@@ -1,8 +1,8 @@
-# VCV2_PATCH_TETRIX
+# VCV2_PATCH - TETRIX
 Patches, Sound Design, Motion Control, MIDI, Modular & More
 by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 
-# textrixxx VCV Rack 2 Patch
+# textrix VCV Rack 2 Patch
 
 ### About this patch:  
 
