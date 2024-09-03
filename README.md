@@ -11,7 +11,7 @@ by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 Download and register for a free or paid version of VCV Rack 2 from www.vcvrack.com. 
 
 
-Install necessary module libraries: [Recommended Module Libraries](https://github.com/maxedonia/VCV2_PATCH_TETRIX.git).
+Install necessary module libraries: [Recommended Module Libraries]([https://github.com/maxedonia/VCV2_PATCH_TETRIX.git](https://github.com/maxedonia/VCV2_PATCH_TETRIX/edit/main/README.md#recommended-module-libraries).
 
 
 Clone repo:
