@@ -49,12 +49,12 @@ by **[Max Deadroom](https://maxedonia.myportfolio.com)**
 
 ![tetrixxx example image](https://github.com/user-attachments/assets/b0250c32-173d-43fb-a236-9c0c02f5a525)
 
-  *As shown, the variability of output can significantly changed due recursive nature of CV output from one module to that of another. This variability can be most easily achieved by changing the Lomas sample bank, altering the length of the sample start/end window, or by changes to the gameplay or .nes loaded in RackNES.*
+  *As shown, the variability of output can significantly change due to the recursive nature of CV output from one module to that other(s). This variability can be most easily observed by changing the Lomas sample bank, altering the length of the sample start/end window, or by controlling RackNEs directly to create changes to the gameplay or .nes file loaded into the module.*
 
 
 ![toms and texture](https://github.com/user-attachments/assets/a5d03bf2-a8a6-4acf-a2d1-c303b61c637b)
 
-  *Tip: Altering the playback parameters of the Lomas Sampler will create new textures in the low end. A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills during playback.*
+  *Tip: A larger start/stop playback window will generate more bass tones, whereas a shorter window will trigger more tom fills throughout pattern. Import your own samples and attenuate them with OCT module for unique bass and tom patterns.*
 
 
 
