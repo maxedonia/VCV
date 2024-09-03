@@ -53,29 +53,29 @@ Made in VCV Rack Pro 2.5.2. on Windows 10. 48kHz sample rate. Processing Threads
 
 ## **Recommended Module Libraries**:
 
-**JW**
+[JW](https://github.com/jeremywen/JW-Modules)
 
-**Hetrick** 
+[Hetrick](https://github.com/mhetrick)
 
-**KautenjaDSP**
+[KautenjaDSP](https://github.com/Kautenja)
 
-**Lomas**
+[Lomas](https://github.com/DISTRHO/Cardinal/issues/652)
 
-**Vult**
+[Vult](https://github.com/vult-dsp/vult)
 
-**Bog Audio**
+[Bog Audio](https://github.com/bogaudio/BogaudioModules)
 
-**MindMeld**
+[MindMeld](https://github.com/MarcBoule/MindMeldModular)
 
-**Count Modula**
+[Count Modula](https://github.com/countmodula/VCVRackPlugins)
 
 
 
-*Creator does not claim developer credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996.*
+*Creator does not claim development nor credit for Tetris™. Tetris is copyrighted by Tetris Holding, LLC, 1996 et. al.*
 
 *Included samples for Lomas Sample Module were recorded by **[maxdeadroom](https://maxedonia.myportfolio.com)** from *Another World, 20th Anniversary Edition* for PC. 
 
-*This synthpatch is for demonstration purposes only.*
-
 *[Another World](https://www.moma.org/collection/works/162458) is copyrighted by Éric Chahi, 1991, 2024.*
+
+*This synthpatch is for demonstration purposes only.*
 
